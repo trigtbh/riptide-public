@@ -1,0 +1,33 @@
+{
+    "footer": [
+        "Beep boop",
+        "Boop beep",
+        "Beep beep"
+    ],
+    "accepted": [
+        "You got it!",
+        "Ok!",
+        "Alright!"
+    ],
+    "error": [
+        "Uh oh,",
+        "Yikes,",
+        "Oops,",
+        "Oh no,"
+    ],
+    "join": [
+        "Hey, what's up?",
+        "Yooooo!",
+        "Heeeeeeeeeey."
+    ],
+    "leave": [
+        "Ok, see you later!",
+        "Bye!",
+        "Catch you later!"
+    ],
+    "praise": [
+        "Nice job!",
+        "Way to go!",
+        "Great!"
+    ]
+}

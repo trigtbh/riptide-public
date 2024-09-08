@@ -1,0 +1,5 @@
+discord.py[voice]==2.1.0
+jishaku
+pymongo
+pytimeparse
+wavelink==1.3.5

@@ -1,0 +1,247 @@
+{
+    "Games": {
+        "blackjack": [
+            "[users]",
+            "Starts a game of [Blackjack](https://en.wikipedia.org/wiki/Blackjack).\nIf multiple users are mentioned, they will be invited to play a game against you.\nIf no user is mentioned, you will play against a bot."
+        ],
+        "coinflip": [
+            "",
+            "Flips a coin"
+        ],
+        "connect4": [
+            "[user]",
+            "Starts a game of Connect 4.\nIf a user is mentioned, they will be invited to play a game against you.\nIf no user is mentioned, you will play against a bot."
+        ],
+        "roll": [
+            "<dice configuration>",
+            "Rolls a dice, using standard [AdX dice notation](https://en.wikipedia.org/wiki/Dice_notation) to configure the rolls."
+        ],
+        "trivia": [
+            "",
+            "Starts a trivia game"
+        ],
+        "wg": [
+            "",
+            "Alias of `word_guess`"
+        ],
+        "wordguess": [
+            "",
+            "Alias of `word_guess`"
+        ],
+        "word_guess": [
+            "",
+            "Starts a game of Word Guess.\nYou have 6 attempts to guess a 5-letter word.\nEnter a word to submit it as a guess.\n:green_square: indicates a letter is in the right position.\n:orange_square: indicates a letter is in the word, but in a different position.\n:black_large_square: indicates a letter is not in the word.\n:x: indicates your guess is not in the word list.\nEnter `end` to end the game"
+        ],
+        "8ball": [
+            "<question>",
+            "Uses a magic 8 ball to answer a question"
+        ]
+        
+    },
+    "Halloween": {
+        "inventory": [
+            "[rarity] [page]",
+            "Displays your inventory.\nIf a rarity is specified, only items of that rarity will be displayed.\nIf a page is specified, items on that page will be displayed."
+        ],
+        "treat": [
+            "",
+            "Gives a trick or treater a treat. Make sure you don't give them one if they're looking for a trick!"
+        ],
+        "trick": [
+            "",
+            "Gives a trick or treater a trick. Make sure you don't give them one if they're looking for a treat!"
+        ],
+        "ttleaderboard": [
+            "",
+            "Displays the leaderboard for the Trick or Treat event"
+        ]
+
+    },
+    "Leveling": {
+        "leaderboard": [
+            "[page]",
+            "Displays the server's leaderboard. If a page is specified, it will display that page on the leaderboard."
+        ],
+        "rank": [
+            "[user]",
+            "Displays your current rank, how much XP you have, and how much you need to rank up. If a user is specified, it will display their rank."
+        ]
+    },
+    "Music": {
+        "current": [
+            "",
+            "Alias of `nowplaying`"
+        ],
+        "dc": [
+            "",
+            "Alias of `stop`"
+        ],
+        "disconnect": [
+            "",
+            "Alias of `stop`"
+        ],
+        "dis": [
+            "",
+            "Alias of `stop`"
+        ],
+        "leave": [
+            "",
+            "Alias of `stop`"
+        ],
+        "loop": [
+            "Toggles looping for the current player"
+        ],
+        "move": [
+            "<from> <to>",
+            "Moves a song from one position in the queue to another"
+        ],
+        "nowplaying": [
+            "",
+            "Displays the song that is currently playing"
+        ],
+        "np": [
+            "Alias of `nowplaying`"
+        ],
+        "pause": [
+            "",
+            "Pauses the current player"
+        ],
+        "play ": [
+            "<YouTube search term/URL>",
+            "Connects to a voice channel and plays a specified video from YouTube"
+        ],
+        "p": [
+            "<YouTube search term/URL>",
+            "Alias of `play`"
+        ],
+        "queue": [
+            "[page]",
+            "Shows videos in the queue at a specified page (defaults to page 1)"
+        ],
+        "remove": [
+            "<position>",
+            "Removes an item at a specified position"
+        ],
+        "resume": [
+            "",
+            "Resumes the current player"
+        ],
+        "res": [
+            "",
+            "Alias of `resume`"
+        ],
+        "sb": [
+            "<sound name>",
+            "Alias of `soundboard`"
+        ],
+        "skip": [
+            "",
+            "Skips the current song"
+        ],
+        "soundboard": [
+            "<sound name>",
+            "[UNUSED]"
+        ],
+        "stop": [
+            "",
+            "Completely stops the player and disconnects it from the voice channel"
+        ],
+        "s": [
+            "",
+            "Alias of `skip`"
+        ],
+        "volume": [
+            "[0-100]",
+            "Sets the volume from 0-100, or displays the current volume if no volume argument is given"
+        ],
+        "vol": [
+            "[0-100]",
+            "Alias of `volume`"
+        ]
+    },
+    
+    "Other": {
+        "help": [
+            "[category/command name]",
+            "Displays help messages for a command, or an entire category of commands"
+        ],
+        "ctx": [
+            "[command name]",
+            "Displays help messages for context menu commands"
+        ],
+        "ping": [
+            "",
+            "Displays the bot's response time in milliseconds"
+        ]
+    },
+
+    "Pets": {
+        "pet": [
+            "",
+            "Displays your pet's stats.\nAlternatively, if you don't have a pet, this command opens the setup menu to get one."
+        ],
+        "pet breeds": [
+            "[breed number]",
+            "Displays the information for a specified pet breed, depending on the number specified.\nIf no number is specified, a list of all breeds is displayed."
+        ],
+        "pet clean": [
+            "",
+            "Cleans your pet.\nThis command only works if you have a pet and if the pet is considered dirty."
+        ],
+        "pet feed": [
+            "",
+            "Feeds your pet.\nThis command only works if you have a pet and if the pet is considered hungry."
+        ],
+        "pet play": [
+            "",
+            "Play with your pet.\nThis command only works if you have a pet and if the pet is considered bored or sad."
+        ],
+        "pet water": [
+            "",
+            "Gives your pet water.\nThis command only works if you have a pet and if the pet is considered thirsty."
+        ]
+    },
+
+    "Social": {
+        "boop": [
+            "<user>",
+            "Boops a user"
+        ],
+        "hug": [
+            "<user>",
+            "Gives a user a hug"
+        ],
+        "kill": [
+            "<user>",
+            "Kills a user"
+        ],
+        "kiss": [
+            "<user>",
+            "Gives a user a kiss"
+        ],
+        "poke": [
+            "<user>",
+            "Pokes a user"
+        ],
+        "punch": [
+            "<user>",
+            "Punches a user"
+        ],
+        "slap": [
+            "<user>",
+            "Slaps a user"
+        ]
+    },
+    
+    "Utilities": {
+        "ocr": [
+            "<image as an attachment>",
+            "Gets all text from attached images"
+        ],
+        "translate": [
+            "<language> <message>",
+            "Translates a specified message into a specified language"
+        ]
+    }
+    
+}

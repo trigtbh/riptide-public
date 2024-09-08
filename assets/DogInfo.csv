@@ -1,0 +1,26 @@
+breed,size,energy,trainability,attitude
+Labrador Retriever,2,10,10,10
+German Shepherd,2,6,10,6
+Golden Retriever,2,10,10,8
+Bulldog,2,6,6,8
+Beagle,1,8,6,7
+Poodle,2,6,10,8
+Rottweiler,2,6,6,4
+Yorkshire Terrier,1,6,3,7
+Boxer,2,7,8,10
+Dachshund,1,6,6,6
+Welsh Corgi,1,8,6,10
+Siberian Husky,2,8,4,8
+Border Collie,2,10,10,4
+Pug,1,6,6,8
+Australian Shepherd,2,8,10,6
+Great Dane,3,8,6,6
+Doberman,2,10,10,6
+St. Bernard,3,6,6,8
+Basset Hound,1,3,4,7
+Shiba Inu,1,6,4,3
+Shih Tzu,1,6,6,8
+Maltese,1,6,6,10
+Cocker Spaniel,2,6,10,10
+English Springer Spaniel,2,6,10,8
+Cavalier King Charles Spaniel,1,4,10,8

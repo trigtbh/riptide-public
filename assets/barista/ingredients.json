@@ -1,0 +1,110 @@
+{
+    "1":{
+       "name":"Iced Beverage Cup",
+       "emoji":"🥤"
+    },
+    "2":{
+       "name":"Espresso Cup",
+       "emoji":"☕"
+    },
+    "3":{
+       "name":"Tea Cup",
+       "emoji":"🍵"
+    },
+    "4":{
+       "name":"Coffee Cup",
+       "emoji":"☕"
+    },
+    "5":{
+       "name":"Ice",
+       "emoji":"🧊"
+    },
+    "6":{
+       "name":"Lemonade Base",
+       "emoji":"🍋"
+    },
+    "7":{
+       "name":"Strawberry Base",
+       "emoji":"🍓"
+    },
+    "8":{
+       "name":"Black Tea",
+       "emoji":"🍵"
+    },
+    "9":{
+       "name":"Green Tea",
+       "emoji":"🍵"
+    },
+    "10":{
+       "name":"Chai",
+       "emoji":"🍵"
+    },
+    "11":{
+       "name":"Espresso",
+       "emoji":"☕"
+    },
+    "12":{
+       "name":"Decaf",
+       "emoji":"☕"
+    },
+    "13":{
+       "name":"Chocolate Base",
+       "emoji":"🍫"
+    },
+    "14":{
+       "name":"Vanilla Base",
+       "emoji":"🍦"
+    },
+    "15":{
+       "name":"Whole Milk",
+       "emoji":"🥛"
+    },
+    "16":{
+       "name":"Non-fat Milk",
+       "emoji":"🥛"
+    },
+    "17":{
+       "name":"Almond Milk",
+       "emoji":"🥛"
+    },
+    "18":{
+       "name":"Cream",
+       "emoji":"🥛"
+    },
+    "19":{
+       "name":"Sugar",
+       "emoji":"🧂"
+    },
+    "20":{
+       "name":"Sweetener",
+       "emoji":"🧂"
+    },
+    "21":{
+       "name":"Stir",
+       "emoji":"🥄"
+    },
+    "22":{
+       "name":"Blend",
+       "emoji":"⚙"
+    },
+    "23":{
+       "name":"Steam",
+       "emoji":"☁"
+    },
+    "24":{
+       "name":"No Preparation",
+       "emoji":"🚫"
+    },
+    "25":{
+       "name":"Whipped Cream",
+       "emoji":"🍦"
+    },
+    "26":{
+       "name":"Caramel Drizzle",
+       "emoji":"🍯"
+    },
+    "27":{
+       "name":"Chocolate Drizzle",
+       "emoji":"🍫"
+    }
+ }

@@ -1,0 +1,20 @@
+1: all lemonades
+2: all strawberry lemonades
+
+3: all black tea
+4: all green tea
+5: all chai
+
+6: espresso
+
+7: latte
+8: mocha
+9: beginner's brew
+10: caramel macchiato
+11: barista special
+12: mocha frappe
+13: vanilla frappe
+14: barista special frappe
+
+15: chocolate milk
+16: steamed milk

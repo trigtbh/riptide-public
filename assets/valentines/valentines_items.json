@@ -1,0 +1,23 @@
+[
+    {"name": "Bouquet", "emote": "💐", "chance": 50, "points": 2, "poems": [
+        "A bouquet of flowers on Valentine's Day,\nA symbol of love in every way.",
+        "A gift from the heart,\nA beautiful work of art.",
+        "A splash of color in every hue,\nA special gift, just for you.",
+        "A token of affection, a sign of care,\nA bouquet of flowers, beyond compare.",
+        "From roses red to petals pink,\nA bouquet of flowers, don't you think?"
+    ]},
+    {"name": "Rose", "emote": "🌹", "chance": 100, "points": 1, "poems": [
+        "A rose on Valentine's Day,\nA symbol of love in every way.",
+        "A gift from the heart,\nA beautiful work of art.",
+        "A single stem, a perfect bloom,\nA special gift, to brighten your room.",
+        "A token of affection, a sign of care,\nA rose on Valentine's Day, beyond compare.",
+        "From red to pink, from yellow to white,\nA rose on Valentine's Day, a beautiful sight."
+    ]},
+    {"name": "Chocolates", "emote": "🍫", "chance": 25, "points": 3, "poems": [
+        "A box of chocolates on Valentine's Day,\nA sweet and tasty treat in every way.",
+        "A gift from the heart,\nA tasty work of art.",
+        "A bite of pleasure, a sweet delight,\nA special gift, just for tonight.",
+        "A symbol of love, a sign of affection,\nChocolates on Valentine's Day, a delectable selection.",
+        "From dark to milk, from creamy to bold,\nChocolates on Valentine's Day, never grow old."
+    ]}
+]

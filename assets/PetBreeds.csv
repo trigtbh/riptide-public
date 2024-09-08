@@ -1,0 +1,12 @@
+breed,size,energy,trainability,attitude
+Labrador Retriever,2,10,10,10
+German Shepherd,2,6,10,6
+Golden Retriever,2,10,10,8
+Cocker Spaniel,2,6,10,10
+Pug,1,6,6,8
+Australian Shepherd,2,8,10,6
+Great Dane,3,8,6,6
+Bulldog,2,6,6,8
+Beagle,1,8,6,7
+Poodle,2,6,10,8
+Shiba Inu,1,6,4,3
